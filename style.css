@@ -17,6 +17,11 @@ header {
 	border-radius: 50%;
 }
 
+#cert-img {
+	width: 200px;
+	border-radius: 0%;
+}
+
 button {
 	padding: 10px 20px;
 	margin-top: 10px;
